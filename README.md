@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Tharunn N
 
-<!--
-**Tharunn75/Tharunn75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Java Developer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+I’m a passionate **Java Full Stack Developer** with hands-on experience in building robust, scalable web applications. I specialize in both **backend** and **frontend** development using **Spring Boot**, **Hibernate**, **SQL**, and modern **JavaScript frameworks**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love writing clean, maintainable code, diving deep into backend logic, and crafting responsive user interfaces. Always learning, always building.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Backend
+- **Java (Core & Advanced)**
+- **Spring Framework** — Spring Boot, Spring MVC, Spring Data JPA
+- **Hibernate, JDBC**
+- **RESTful API Development**
+- **DSA & Problem Solving**
+
+### 🗄️ Database
+- **MySQL**, SQL
+
+### 🎨 Frontend
+- **HTML5, CSS3**
+- **JavaScript (ES6+)**
+- **React.js**
+- **Bootstrap**, **Tailwind CSS**
+
+### ⚙️ Tools & Platforms
+- **IDEs**: VS Code, Eclipse,Notepad++
+- **Version Control**: Git & GitHub
+- **API Testing**: Postman, Swagger UI
+- **DB Tools**: MySQL Workbench, SQL*Plus,Xampp
+
+---
+
+## 🎓 Education
+
+**B.E. – Electronics and Communication Engineering**  
+Builders Engineering College, Kangeyam  
+*CGPA: 7.02| Graduated: 2024*
+
+---
+
+## 📬 Connect With Me
+
+[![Email](https://img.icons8.com/fluency/28/new-post.png)](mailto:tharunn75@gmail.com)
+[![LinkedIn](https://img.icons8.com/fluency/28/linkedin.png)](https://www.linkedin.com/in/tharunn-n)
+
+---
+
+## 💡 Let's Collaborate
+
+I'm open to collaborating on exciting projects, contributing to open-source, and working in dynamic development teams.  
+Let’s build something awesome together! 🔥
