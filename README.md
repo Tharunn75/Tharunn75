@@ -38,7 +38,7 @@ I love writing clean, maintainable code, diving deep into backend logic, and cra
 
 **B.E. – Electronics and Communication Engineering**  
 Builders Engineering College, Kangeyam  
-*CGPA: 7.02| Graduated: 2024*
+*CGPA: 7.51| Graduated: 2024*
 
 ---
 
