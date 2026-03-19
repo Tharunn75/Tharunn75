@@ -37,7 +37,7 @@ I love writing clean, maintainable code, diving deep into backend logic, and cra
 ## 🎓 Education
 
 **B.E. – Electronics and Communication Engineering**  
-Builders Engineering College, Kangeyam  
+kongu Engineering College, Erode  
 *CGPA: 7.51| Graduated: 2024*
 
 ---
@@ -46,6 +46,8 @@ Builders Engineering College, Kangeyam
 
 [![Email](https://img.icons8.com/fluency/28/new-post.png)](mailto:tharunn75@gmail.com)
 [![LinkedIn](https://img.icons8.com/fluency/28/linkedin.png)](https://www.linkedin.com/in/tharunn-n)
+[![Portfolio](https://icons8.com/icon/9918/website)](https://tharunn.in)
+
 
 ---
 
