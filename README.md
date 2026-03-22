@@ -46,7 +46,7 @@ kongu Engineering College, Erode
 
 [![Email](https://img.icons8.com/fluency/28/new-post.png)](mailto:tharunn75@gmail.com)
 [![LinkedIn](https://img.icons8.com/fluency/28/linkedin.png)](https://www.linkedin.com/in/tharunn-n)
-[![Portfolio](https://icons8.com/icon/9918/website)](https://tharunn.in)
+[![Portfolio](https://img.icons8.com/?size=100&id=9918&format=png&color=000000)](https://tharunn.in)
 
 
 ---
